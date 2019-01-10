@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "author": "Bonga",
+      "id": 2,
+      "title": "Update Method"
+    },
+    {
+      "author": "New Author",
+      "id": "6",
+      "title": "New Title"
+    },
+    {
+      "author": "Lani",
+      "id": "30",
+      "title": "Post "
+    },
+    {
+      "author": "User",
+      "id": "3",
+      "title": "Cucumber"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
